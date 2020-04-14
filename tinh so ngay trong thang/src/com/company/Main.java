@@ -27,7 +27,7 @@ public class Main {
                 break;
             case 4:
             case 6:
-            case  9:
+            case 9:
             case 11:
                 System.out.printf("tháng %d có 30 ngày",n);
                 break;
