@@ -144,10 +144,6 @@ public class Main {
         String first_str= String.valueOf(first_no);
         String second_str=String.valueOf(second_no);
 
-
-
-
-
         if (first_str.equals("2")){
            first_str="twenty";
 
